@@ -46,4 +46,4 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 <br>
 
 ## Result
-Thus the program for 1-norm, 2-norm and Infinity norm of a matrix is written and verified.
+Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
